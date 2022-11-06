@@ -124,3 +124,34 @@ etc...
 
 update for today Nov 4, 2022
 to be continued...
+
+## Lessons Learned 2
+
+Spreading object as props
+
+doing it differently from using  this in App.jsx
+
+````bash
+<Card
+key={item.id}
+item={item}
+/>
+````
+
+and in Card.jsx
+
+````bash
+{props.item.coverImg}
+````
+to 
+
+````bash
+<Card
+key={item.id}
+{...item}
+/>
+````
+
+````bash
+{props.coverImg}
+````
