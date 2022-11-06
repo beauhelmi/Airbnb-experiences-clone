@@ -4,6 +4,7 @@
 
 Project 2 for the Scrimba/FreeCodeCamp React tutorial - https://www.youtube.com/watch?v=bMknfKXIFA8 - 
 First Push on Github was Nov 4th 2022 - further improvements upcoming soon..
+Second Push happens on NOv 6th 2022 with changing website view to Mobile display
 
 
 
