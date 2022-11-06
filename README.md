@@ -125,7 +125,7 @@ etc...
 update for today Nov 4, 2022
 to be continued...
 
-## Lessons Learned 2
+## Lessons Learned 3
 
 Spreading object as props
 
@@ -155,3 +155,9 @@ key={item.id}
 ````bash
 {props.coverImg}
 ````
+update for today Nov 6, 2022
+
+## Screenshots
+
+![App Screenshot](https://github.com/beauhelmi/Airbnb-experiences-clone/blob/main/public/images/latest%20airbnb.png?raw=true)
+
