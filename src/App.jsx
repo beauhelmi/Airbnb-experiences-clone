@@ -33,7 +33,7 @@ export default function App() {
       )
   })
   return (
-      <div className="app--container">
+      <div className='app--container'>
           <Navbar />
           <Hero />
           <section className="cards--list">
